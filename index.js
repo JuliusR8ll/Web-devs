@@ -15,7 +15,7 @@ window.onpointermove = event => {
 
 /* -- Text effect -- */
 
-const sentences = ["GET BACK HOME HERE", "404 PAGE NOT FOUND"];
+const sentences = ["GET BACK HOME PAGE", "404 PAGE NOT FOUND"];
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
 let interval = null;
